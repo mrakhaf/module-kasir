@@ -1,0 +1,11 @@
+Disuatu minimarket terdapat sebuah kasir yang akan memeriksa/scan barang belanjaan satu persatu sehingga menjadi sebuah list barang belanjaan (struk)
+
+Misal, pelanggan memberikan keranjang belanjaan dan hendak segera membayar, maka kasir akan memeriksa barang apa saja yang akan dibeli sehingga 
+menghasilkan sebuah struk
+Challenge -> Buatlah sebuah kode program yang menghasilkan struk barang belanjaan tersebut yang di trigger dari sebuah fungsi tambah barang
+Catatan : 
+- Keranjang pelanggan berisi [fanta, cokelat, parfum, minyak goreng, mie instan]
+- Menerapkan contract interface, method, pointer, dan perulangan
+
+clue: 
+1. variable "struk" yang awalnya berisi slice kosong tanpa di assign ulang nilainya hanya melalui fungsi tambah data ketika di print di akhir maka akan terisi dari belanjaan
