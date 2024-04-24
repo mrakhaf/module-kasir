@@ -1,7 +1,7 @@
 package main
 
 import (
-	"coba-soal-challenge-1/challenge1"
+	"coba-soal-challenge-1/kasir"
 	"fmt"
 )
 
@@ -19,9 +19,9 @@ func main() {
 	///Challenge
 	listBelanjaanCustomer := []string{"fanta", "cokelat", "parfum", "minyak goreng", "mie instan"}
 	var strukBelanja []string
-	var tempKasir challenge1.MenuKasir
+	var tempKasir kasir.MenuKasir
 
-	tempKasir = challenge1.Belanja{
+	tempKasir = kasir.Belanja{
 		ListBarang: &strukBelanja,
 	}
 
