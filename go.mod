@@ -1,3 +1,3 @@
-module coba-soal-challenge-1
+module github.com/mrakhaf/module-kasir
 
 go 1.16

@@ -1,8 +1,9 @@
 package main
 
 import (
-	"coba-soal-challenge-1/kasir"
 	"fmt"
+
+	"github.com/mrakhaf/module-kasir/kasir"
 )
 
 func main() {
